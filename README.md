@@ -1,20 +1,21 @@
 # 🏆 Zidi Rahim — Professional Profile
 
 ## 👋 About Me
-**Systems Engineer & Blockchain Security Researcher** | Rust, TypeScript, Solidity, Python
-Specializing in: **Smart Contract Security · Backend Architecture · SDK Development · Compiler Soundness**
+**Software Engineer · Security-focused open-source contributor** | Rust, TypeScript, PHP, Go
+Focus: **Compiler soundness · SDK development · Web security hardening**
 
 ---
 
-## 🏆 Verified Track Record (Mergetmint Stellar Wave 10)
+## 🏆 Verified Track Record
 
-| Achievement | Details |
+Every row links to the public record.
+
+| Achievement | Evidence |
 |---|---|
-| ✅ PR #1150 MERGED | `mergemint-contracts` — SDK reopen/reassign/submitWork entrypoints, merged by maintainer @techisigu on Oct 19, 2026 |
-| ✅ 78/78 Jest Tests | TypeScript SDK test suite — all passing |
-| ✅ KYC Approved | Drips Wave Stellar — verified identity |
-| ✅ Go-Hybrid Compiler | 8 PRs merged in `limitlessprojects/Go-Hybrid` — soundness fixes, E3006/A3 |
-| ✅ Tari Security Advisories | GHSA-47qc/88vm/8m4r — RPC and consensus invariants |
+| ✅ 7 PRs merged in `limitlessprojects/Go-Hybrid` — checker soundness fixes (HYB-E3006, A3 events, closure freezes) and docs | [#26](https://github.com/limitlessprojects/Go-Hybrid/pull/26) · [#44](https://github.com/limitlessprojects/Go-Hybrid/pull/44) · [#46](https://github.com/limitlessprojects/Go-Hybrid/pull/46) · [#102](https://github.com/limitlessprojects/Go-Hybrid/pull/102) · [#110](https://github.com/limitlessprojects/Go-Hybrid/pull/110) · [#117](https://github.com/limitlessprojects/Go-Hybrid/pull/117) · [#126](https://github.com/limitlessprojects/Go-Hybrid/pull/126) |
+| ✅ 3 soundness bugs reported and fixed in Go-Hybrid | [#109](https://github.com/limitlessprojects/Go-Hybrid/issues/109) · [#111](https://github.com/limitlessprojects/Go-Hybrid/issues/111) · [#123](https://github.com/limitlessprojects/Go-Hybrid/issues/123) |
+| ✅ PR merged in `mergemint-contracts` — SDK wrappers for reopen / reassign / submit_work (Oct 19, 2026) | [#1150](https://github.com/mergemint-mint/mergemint-contracts/pull/1150) |
+| ✅ PR merged in `FaveTeamz/workload-governor` — strict CSP, HSTS preload and X-Frame-Options (Oct 24, 2026) | [#1138](https://github.com/FaveTeamz/workload-governor/pull/1138) |
 
 ---
 
@@ -22,11 +23,10 @@ Specializing in: **Smart Contract Security · Backend Architecture · SDK Develo
 
 | Domain | Technologies |
 |---|---|
-| **Languages** | Rust, TypeScript, Solidity, Python, C/C++ |
-| **Backend** | Axum, Actix, Express, PostgreSQL, Redis |
-| **Blockchain** | Stellar Soroban, Solidity/Foundry, Hardhat |
-| **Testing** | Jest, Playwright, cargo test, Foundry |
-| **DevOps** | Docker, CI/CD, GitHub Actions |
+| **Languages** | Rust, TypeScript / JavaScript, PHP, Go |
+| **Security** | Secure headers (CSP/HSTS), session & auth hardening, static analysis |
+| **Testing** | Jest, cargo test, node:test |
+| **DevOps** | Git, GitHub Actions |
 
 ---
 
@@ -41,7 +41,7 @@ Specializing in: **Smart Contract Security · Backend Architecture · SDK Develo
 
 ## 📬 Contact
 - **GitHub:** [zidirahim617-del](https://github.com/zidirahim617-del)
-- **Availability:** Open to bounty work, security audits, SDK contributions
+- **Availability:** Open to bounty work, security research, SDK contributions
 
 ---
 *Ready for: Backend · SDK · Security · Testing · Documentation*
